@@ -15,7 +15,7 @@ function PageNav() {
           <NavLink to={"/product"}>Product</NavLink>
         </li>
         <li>
-          <NavLink to={"/product"}>Log in</NavLink>
+          <NavLink to={"/login"}>Login</NavLink>
         </li>
       </ul>
     </nav>
